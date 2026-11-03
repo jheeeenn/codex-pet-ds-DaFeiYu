@@ -1,0 +1,104 @@
+{
+  "ok": true,
+  "method": "shared shoe-anchor target; row-wide translation preserves locomotion and jump foot motion",
+  "target_x": 98,
+  "pixels_redrawn": false,
+  "frames": [
+    {
+      "frame": "look-row/0",
+      "anchor_before": 100.57843137254902,
+      "offset_x": -3,
+      "anchor_after": 97.57843137254902,
+      "bbox_after": [
+        36,
+        48,
+        154,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/1",
+      "anchor_before": 104.27741935483871,
+      "offset_x": -6,
+      "anchor_after": 98.27741935483871,
+      "bbox_after": [
+        30,
+        47,
+        148,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/2",
+      "anchor_before": 107.5126582278481,
+      "offset_x": -10,
+      "anchor_after": 97.5126582278481,
+      "bbox_after": [
+        22,
+        46,
+        146,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/3",
+      "anchor_before": 107.5064308681672,
+      "offset_x": -10,
+      "anchor_after": 97.5064308681672,
+      "bbox_after": [
+        20,
+        47,
+        144,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/4",
+      "anchor_before": 108.359477124183,
+      "offset_x": -10,
+      "anchor_after": 98.359477124183,
+      "bbox_after": [
+        19,
+        47,
+        145,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/5",
+      "anchor_before": 110.64754098360656,
+      "offset_x": -13,
+      "anchor_after": 97.64754098360656,
+      "bbox_after": [
+        19,
+        48,
+        144,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/6",
+      "anchor_before": 113.53921568627452,
+      "offset_x": -16,
+      "anchor_after": 97.53921568627452,
+      "bbox_after": [
+        18,
+        48,
+        143,
+        199
+      ]
+    },
+    {
+      "frame": "look-row/7",
+      "anchor_before": 110.53921568627452,
+      "offset_x": -13,
+      "anchor_after": 97.53921568627452,
+      "bbox_after": [
+        21,
+        51,
+        150,
+        199
+      ]
+    }
+  ]
+}

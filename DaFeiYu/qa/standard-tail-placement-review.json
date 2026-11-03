@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "scope": "nine standard source strips and extracted/native contacts",
+  "row_verdicts": {
+    "idle": "pass: frontal rest, tail curves right behind hem",
+    "running-right": "pass after complete-row repair: tail trails left below intact foreground hair, hidden root behind skirt/hair",
+    "running-left": "pass: tail trails right, exposed beneath hair, root occluded behind skirt",
+    "waving": "pass: front rest with right tail, attached under hem, no front occlusion",
+    "jumping": "pass: mostly frontal gaze; tail tracks body lift behind skirt/hair",
+    "failed": "pass: frontal bows/reaction and right tail stays behind silhouette",
+    "waiting": "pass: frontal tilted heads and right tail; no clear side-facing yaw",
+    "running": "pass: frontal work loop, right tail behind hem",
+    "review": "pass with subtle yaw warning: front/three-quarter inspection tilt, no clear side-facing yaw, right tail behind hem"
+  },
+  "warnings": [
+    "Review poses have subtle rightward facial orientation, but remain predominantly frontal; not the clear side-facing locomotion case."
+  ],
+  "lateral_motion": "No conspicuous unintended lateral body/tail jumps observed in current native contact sheet. Tail swings remain attached; final animation and transitions still require parent review.",
+  "resolved_defects": [
+    {
+      "state": "running-right",
+      "kind": "tail-in-front-of-hair",
+      "frames": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "evidence": "Raised blue flukes overlay/replace the lower trailing indigo hair silhouette; original no-tail gait shows hair occupying that region. Tail must be occluded by all dress/hair."
+    }
+  ],
+  "blocking_defects": [],
+  "repair_evidence": "qa/rows/running-right/extracted-contact.png and decoded/running-right.png; native-sized eight-pose strip reviewed after bundled extraction/inspection"
+}

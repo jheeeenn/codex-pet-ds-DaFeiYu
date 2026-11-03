@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Raised chin and upward blue eye surfaces; tail mostly occluded behind hem/hair."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Face and blue eyes yaw screen-right; connected tail trails screen-left below and behind indigo hair."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Symmetric chin tuck and crown prominence, lowered eye line; tail mostly occluded behind hair/dress."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Face and blue eyes yaw screen-left; connected tail trails screen-right with hair and dress in front."
+    }
+  ]
+}

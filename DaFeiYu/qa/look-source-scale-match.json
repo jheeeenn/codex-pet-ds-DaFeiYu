@@ -1,0 +1,154 @@
+{
+  "ok": true,
+  "method": "single uniform complete-source scale from median matched-pitch opposite-yaw heights",
+  "row9": "Pets/DaFeiYu/with-whale-tail/decoded/look-row-9.png",
+  "row10": "Pets/DaFeiYu/with-whale-tail/decoded/look-row-10.png",
+  "output": "Pets/DaFeiYu/with-whale-tail/decoded/look-row-10-scale-matched.png",
+  "source_size": [
+    2172,
+    724
+  ],
+  "output_size": [
+    2078,
+    693
+  ],
+  "shared_source_scale_factor": 0.9565217391304348,
+  "pairs": [
+    {
+      "row9_index": 1,
+      "row10_index": 7,
+      "height_ratio": 0.9498327759197325
+    },
+    {
+      "row9_index": 2,
+      "row10_index": 6,
+      "height_ratio": 0.9565217391304348
+    },
+    {
+      "row9_index": 3,
+      "row10_index": 5,
+      "height_ratio": 0.9531772575250836
+    },
+    {
+      "row9_index": 4,
+      "row10_index": 4,
+      "height_ratio": 0.9661016949152542
+    },
+    {
+      "row9_index": 5,
+      "row10_index": 3,
+      "height_ratio": 0.9593220338983051
+    },
+    {
+      "row9_index": 6,
+      "row10_index": 2,
+      "height_ratio": 0.9591836734693877
+    },
+    {
+      "row9_index": 7,
+      "row10_index": 1,
+      "height_ratio": 0.9387755102040817
+    }
+  ],
+  "row9_boxes": [
+    [
+      30,
+      231,
+      251,
+      514
+    ],
+    [
+      282,
+      230,
+      502,
+      514
+    ],
+    [
+      533,
+      228,
+      765,
+      514
+    ],
+    [
+      798,
+      229,
+      1030,
+      514
+    ],
+    [
+      1066,
+      229,
+      1302,
+      514
+    ],
+    [
+      1336,
+      231,
+      1569,
+      514
+    ],
+    [
+      1606,
+      232,
+      1840,
+      514
+    ],
+    [
+      1881,
+      238,
+      2122,
+      514
+    ]
+  ],
+  "row10_boxes": [
+    [
+      14,
+      228,
+      243,
+      522
+    ],
+    [
+      272,
+      228,
+      504,
+      522
+    ],
+    [
+      529,
+      228,
+      790,
+      522
+    ],
+    [
+      802,
+      227,
+      1069,
+      522
+    ],
+    [
+      1083,
+      227,
+      1358,
+      522
+    ],
+    [
+      1358,
+      223,
+      1625,
+      522
+    ],
+    [
+      1630,
+      223,
+      1898,
+      522
+    ],
+    [
+      1909,
+      223,
+      2154,
+      522
+    ]
+  ],
+  "pixels_redrawn": false
+}

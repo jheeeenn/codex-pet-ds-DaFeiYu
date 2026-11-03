@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's exposed face and chin project right, with the right eye compressed toward the outer contour; B's face and chin project left, with the left eye compressed toward that contour."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's facial surface is displaced left and the left eye is seen more narrowly; B's facial surface is displaced right and the right eye is seen more narrowly. The chin follows the same opposing yaw."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's eyes and chin sit toward the left side of the head, with a narrow far-eye surface on the left; B shows the mirrored rightward facial projection and narrow far-eye surface on the right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A exposes a left-projecting cheek/chin profile and one dominant eye facing left; B exposes the corresponding right-projecting profile and dominant eye facing right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's lowered face still projects distinctly right, with the visible eye and chin at that edge; B's lowered eye surface and chin project left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both heads are bowed, but A's exposed eye strip and chin angle right while B's exposed eye strip and chin angle left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Despite the strong downward pitch, A's small exposed facial wedge is left of the head center and ends in a left-projecting chin; B's wedge and chin project right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A shows a tall, open facial surface with raised eyes and an extended lower face; B shows the eyes lowered beneath the brow and a shortened facial strip with the chin tucked."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eyes sit high on an exposed upward-tilted face and the chin projects outward; B's eyes are largely covered and the chin is tucked beneath a downward-facing facial sliver."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes more facial height beneath its eye and lifts the rightward chin; B lowers the visible eye and compresses the face into a tucked, downward-tilted wedge."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a higher visible eye and a more outward, raised chin on the rightward face; B's eye sits lower under the brow and the facial plane and chin tip downward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's eyes are lowered and the face is foreshortened above a tucked chin; B displays both eyes high on a broad exposed face, with its chin lifted outward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible eye strip is low and its chin is tucked toward the chest; B's eye surfaces are lifted, its face is taller and its chin projects upward/outward."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's leftward face has a low eye and downward-tucked chin; B's leftward face shows a higher, more open eye surface and a raised outward chin."
+    }
+  ]
+}

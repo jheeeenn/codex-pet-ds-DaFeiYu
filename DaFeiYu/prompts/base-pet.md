@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 大肥鱼.
+
+Pet identity: Preserve current pixel-art maid character and all existing outfit, indigo hair, pale-blue rectangular eyes, frilled headband and blue-white apron. Add physically attached BLUE WHALE TAIL emerging from lower back behind skirt; curved thick tapering blue stem, pale underside, a few light-blue spots, and broad two-lobed whale flukes. Tail curves out beside legs and stays compact, does not replace legs. New three-view reference defines tail anatomy ONLY; do not adopt sweater, beanie, handbag or winter outfit. Tail sways gently and follows the existing body action. No text, arrows, marks, or extra props..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges.
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

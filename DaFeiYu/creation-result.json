@@ -1,0 +1,16 @@
+{
+  "pet_id": "pet_6ae8cfb7749c8191b0a18ea8c1c989da",
+  "name": "大肥鱼",
+  "description": "A gentle pixel-art whale-tailed maid companion with indigo hair, blue eyes, and a frilled blue-and-white dress.",
+  "is_custom": true,
+  "is_active": true,
+  "active_pet_id": "pet_6ae8cfb7749c8191b0a18ea8c1c989da",
+  "created_and_selected": true,
+  "sprite_sheet": "final/spritesheet-extended.png",
+  "sprite_version": 2,
+  "sha256": "fa0c6449a12e1f3646ee7f044a3f7511df61934495205d7884b787c92777ab4f",
+  "validated_bytes": 2431505,
+  "artwork_method": "built-in image generation",
+  "tail_placement": "Behind dress and hair; screen-right facing trails left, screen-left facing trails right.",
+  "verification": "Confirmed stable pet ID and metadata in list_pets after select_pet."
+}

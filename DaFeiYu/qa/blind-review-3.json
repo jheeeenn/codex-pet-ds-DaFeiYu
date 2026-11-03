@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has its eye line and visible cheek turned toward the right; B has the mirrored facial turn toward the left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A exposes the cheek and eye surfaces toward the left; B exposes them toward the right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The eye placement and projecting cheek indicate a left turn in A and a right turn in B."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a left-facing facial wedge with the visible eye toward the left; B has the corresponding right-facing facial wedge."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Despite the lowered head, the exposed eye and cheek point right in A and left in B."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "The downward faces retain rightward eye and cheek placement in A and leftward placement in B."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "The narrow visible eye line and lower cheek are offset left in A and right in B."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A shows broad open eye surfaces and a raised face; B has eyes compressed under the fringe and the chin tucked toward the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes the face upward with open eyes and a raised chin; B lowers its eye line under the fringe and tucks its chin."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A has a lifted cheek and chin with eyes looking upward; B has the eye line lowered under the fringe and a tucked lower face."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A appears slightly raised through its open eye surfaces and lifted cheek; B looks close to level and lacks a sufficiently clear chin tuck or upward eye surface."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered face and eyes compressed beneath the fringe; B has an exposed upward face and open eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A tucks its chin and lowers the visible eye surfaces; B raises the face with open eyes and a lifted chin."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered eye line and tucked lower face; B shows a lifted facial surface with open upward-looking eyes."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "frame_count": 8,
+  "source_group_count": 8,
+  "source_outer_padding": {
+    "left": 62,
+    "right": 29,
+    "top": 210,
+    "bottom": 220
+  },
+  "frame_bboxes": [
+    {
+      "frame": "00.png",
+      "bbox": [
+        7,
+        5,
+        184,
+        195
+      ]
+    },
+    {
+      "frame": "01.png",
+      "bbox": [
+        10,
+        5,
+        181,
+        202
+      ]
+    },
+    {
+      "frame": "02.png",
+      "bbox": [
+        10,
+        5,
+        180,
+        198
+      ]
+    },
+    {
+      "frame": "03.png",
+      "bbox": [
+        9,
+        5,
+        181,
+        199
+      ]
+    },
+    {
+      "frame": "04.png",
+      "bbox": [
+        8,
+        5,
+        183,
+        202
+      ]
+    },
+    {
+      "frame": "05.png",
+      "bbox": [
+        8,
+        5,
+        183,
+        202
+      ]
+    },
+    {
+      "frame": "06.png",
+      "bbox": [
+        9,
+        5,
+        182,
+        203
+      ]
+    },
+    {
+      "frame": "07.png",
+      "bbox": [
+        10,
+        5,
+        181,
+        202
+      ]
+    }
+  ],
+  "observed": "Eight complete leftward gait poses with tail attached behind lowerback and swaying screen-right. Original maid outfit/hair/eyes retained. Pale underside, light spots and two flukes readable. Both legs retained; no canvas/cell clipping, loose effects or neighbor contamination. First nine-pose failed candidate was rejected and complete row regenerated."
+}

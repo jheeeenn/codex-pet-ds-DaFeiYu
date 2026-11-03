@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13484,
+          "bbox": [
+            23,
+            44,
+            166,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13529,
+          "bbox": [
+            31,
+            45,
+            174,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13502,
+          "bbox": [
+            32,
+            45,
+            175,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 107
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13487,
+          "bbox": [
+            22,
+            44,
+            165,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13503,
+          "bbox": [
+            22,
+            45,
+            165,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13376,
+          "bbox": [
+            24,
+            45,
+            163,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10638,
+          "bbox": [
+            45,
+            44,
+            162,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11231,
+          "bbox": [
+            41,
+            44,
+            166,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11467,
+          "bbox": [
+            40,
+            44,
+            167,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11315,
+          "bbox": [
+            40,
+            44,
+            166,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11322,
+          "bbox": [
+            41,
+            44,
+            167,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11315,
+          "bbox": [
+            40,
+            44,
+            167,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 6,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11260,
+          "bbox": [
+            40,
+            44,
+            167,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 7,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11204,
+          "bbox": [
+            40,
+            44,
+            167,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11107,
+          "bbox": [
+            43,
+            44,
+            184,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11006,
+          "bbox": [
+            45,
+            44,
+            181,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 171
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10957,
+          "bbox": [
+            45,
+            44,
+            180,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11080,
+          "bbox": [
+            44,
+            44,
+            181,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11195,
+          "bbox": [
+            43,
+            44,
+            183,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11247,
+          "bbox": [
+            43,
+            44,
+            183,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 6,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11093,
+          "bbox": [
+            44,
+            44,
+            182,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 7,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11077,
+          "bbox": [
+            45,
+            44,
+            181,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13503,
+          "bbox": [
+            34,
+            46,
+            180,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 84
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13444,
+          "bbox": [
+            35,
+            46,
+            178,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13521,
+          "bbox": [
+            35,
+            46,
+            182,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13254,
+          "bbox": [
+            32,
+            46,
+            174,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14798,
+          "bbox": [
+            28,
+            46,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14436,
+          "bbox": [
+            29,
+            26,
+            186,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14599,
+          "bbox": [
+            32,
+            4,
+            183,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15391,
+          "bbox": [
+            27,
+            26,
+            188,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 133
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14995,
+          "bbox": [
+            27,
+            45,
+            188,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12781,
+          "bbox": [
+            40,
+            44,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12640,
+          "bbox": [
+            39,
+            44,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12757,
+          "bbox": [
+            42,
+            45,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11209,
+          "bbox": [
+            36,
+            67,
+            161,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11538,
+          "bbox": [
+            43,
+            57,
+            163,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11817,
+          "bbox": [
+            42,
+            57,
+            171,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        },
+        {
+          "index": 6,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12618,
+          "bbox": [
+            41,
+            45,
+            167,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        },
+        {
+          "index": 7,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13006,
+          "bbox": [
+            40,
+            44,
+            172,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13008,
+          "bbox": [
+            35,
+            44,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13025,
+          "bbox": [
+            35,
+            44,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12955,
+          "bbox": [
+            35,
+            44,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12726,
+          "bbox": [
+            38,
+            44,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12925,
+          "bbox": [
+            35,
+            44,
+            169,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12745,
+          "bbox": [
+            35,
+            44,
+            166,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13212,
+          "bbox": [
+            36,
+            44,
+            171,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13100,
+          "bbox": [
+            36,
+            44,
+            171,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13421,
+          "bbox": [
+            35,
+            44,
+            172,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13338,
+          "bbox": [
+            36,
+            44,
+            173,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13374,
+          "bbox": [
+            36,
+            44,
+            173,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13456,
+          "bbox": [
+            36,
+            45,
+            173,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 118
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13092,
+          "bbox": [
+            36,
+            46,
+            182,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 159
+        },
+        {
+          "index": 1,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13145,
+          "bbox": [
+            37,
+            45,
+            183,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 2,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13202,
+          "bbox": [
+            36,
+            46,
+            180,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 3,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13277,
+          "bbox": [
+            36,
+            45,
+            183,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 4,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12986,
+          "bbox": [
+            40,
+            49,
+            184,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 168
+        },
+        {
+          "index": 5,
+          "file": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13189,
+          "bbox": [
+            36,
+            45,
+            184,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        }
+      ]
+    }
+  ]
+}

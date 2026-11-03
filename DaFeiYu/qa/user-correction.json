@@ -1,0 +1,8 @@
+{
+  "request": "Continue from saved work; add and animate blue whale tail without changing the maid outfit.",
+  "tail_reference": "references/reference-02.jpg",
+  "preserve": "Existing pixel character, nine animation actions, approved gaze directions, costume, face and hair.",
+  "change": "Blue tapered whale tail with pale underside, spots and two flukes; connected under skirt at lower back.",
+  "previous_blocker": "Direction row10 physically larger than row9; fix coherent source row scale during extraction/assembly.",
+  "not_uploaded": true
+}

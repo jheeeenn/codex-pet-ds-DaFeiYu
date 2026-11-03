@@ -1,0 +1,13 @@
+{
+  "source": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/final/spritesheet-extended.png",
+  "all_state_frames": 57,
+  "look_frames": 16,
+  "outputs": [
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/all-states.gif",
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/all-states.mp4",
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/idle-jump-idle.gif",
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/intermediate",
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/look-loop.gif",
+    "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/previews/motion-stills.png"
+  ]
+}

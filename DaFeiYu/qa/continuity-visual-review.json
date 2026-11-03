@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "reviewed_pairs": [
+    "157.5->180",
+    "270->292.5",
+    "337.5->000"
+  ],
+  "observations": [
+    "One shared row10source scale matches physical body size to row9. Planted shoe anchors remain at x98 within rounding while tail changes side.",
+    "Bounding-box center warnings reflect tail exposure on opposite rear sides and occlusion at frontal up/down, rather than body translation.",
+    "Normal-size boundary strip shows similar head/body size and stable feet. No prior 11-13pixel row-boundary expansion observed.",
+    "Near-vertical diagonal axes are subtle and recorded as warnings. Final independent review remains required before upload."
+  ],
+  "metric_warnings_reviewed": true
+}

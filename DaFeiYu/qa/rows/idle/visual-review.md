@@ -1,0 +1,3 @@
+# Idle tail edit visual review
+
+Approved source: decoded/idle.png. Six complete separated pixel maid poses preserve the original outfit, indigo hair, screen-left bow, pale-blue eyes, planted foot baseline and calm blink sequence. Attached blue whale tail emerges behind the skirt with pale underside, small spots and two flukes; low-amplitude rise and settle across the six frames. First and final tails are close for looping. Entire tail remains connected and no canvas-edge artwork remains (zero non-green pixels on both outer columns). No new props, labels or effects. Bundled component extraction and inspection pass, no errors or warnings. Fine green edge fringe remains for the required final chroma despill stage.

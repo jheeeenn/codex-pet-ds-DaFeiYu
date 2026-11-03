@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "review": "Normal-size labeled sheet and boundary strip compared to neutral; gaze uses physical head yaw/pitch and original blue eye surfaces.",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Raised chin and lifted frontal face plane; blue eye surfaces sit high under raised lids. Tail is occluded at the rear."
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Chin stays raised as face and mouth shift screen-right; blue eyes aim upward and right; tail appears on trailing screen-left."
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Face projects screen-right with narrower far eye, while chin lift and upward eye line retain clear up pitch. Tail stays behind left hair edge."
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Rightward face yaw and eye aim are clear; upward pitch is small but visible in lifted chin/face plane. Tail trails left behind hair."
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Face plane and mouth point screen-right, far eye narrowed; level right gaze. Tail trails screen-left beneath preserved hair silhouette."
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Face remains shifted right; lid line drops and chin begins tucking, a subtle downward component. Tail remains behind left hair/dress."
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Crown becomes more visible, chin tucks and blue eyes lower; face projection stays screen-right. Tail root is occluded behind skirt/hair."
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Strong down pitch with near-closed lowered lids; tiny rightward face offset remains. Tail lies on trailing left side, with its root behind dress."
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Symmetric bowed head exposes crown/headband; chin tucks into collar and blue eye line lowers beneath bangs. Tail is hidden behind the body."
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Bowed head and lowered blue eyes read down; face and mouth shift a little screen-left. Small rear tail portion appears to screen-right."
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Face projects screen-left, low eyelids and tucked chin show down; tail emerges behind right hair/skirt edge."
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Left yaw is clear through face projection and far-eye occlusion; chin remains slightly lowered. Tail trails screen-right with hair in front."
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Face plane, mouth and blue eyes aim screen-left; far eye occludes. Tail trails screen-right below and behind long hair."
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Head turns left while chin and blue eye surfaces lift upward; tail remains rear-layered on screen-right."
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Lifted chin and upward eye surfaces combine with screen-left face projection. Tail root stays behind dress/hair."
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Head pitches up with a small remaining leftward yaw; face projection and eye surfaces retain left component. Rear tail is on screen-right before occlusion at up."
+    }
+  ]
+}

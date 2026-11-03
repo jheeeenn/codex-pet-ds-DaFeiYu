@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "directions": "Original approved up-to-right-to-near-down face poses retained; correct right half sequence.",
+  "tail": "Tail trails screen-left behind dress and preserved indigohair in all rightward poses. Up tail occluded.",
+  "registration": "Bundled registration followed by common planted shoe anchor to keep body steady while tail exposure changes.",
+  "source_geometry": "Eight complete separated groups, no outer clipping.",
+  "warnings": [
+    "Near-down final pose has subtle horizontal cue and nearly closed lids; recheck final labeled and blind sheets."
+  ]
+}

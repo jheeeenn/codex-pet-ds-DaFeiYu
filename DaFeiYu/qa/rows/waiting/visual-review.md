@@ -1,0 +1,3 @@
+# Waiting tail edit visual review
+
+Approved decoded/waiting.png contains six complete separated poses. Original maid outfit, fixed screen-left blue bow, indigo hair, pale rectangular blue eyes, planted feet and expectant palms-up gestures are preserved. Small questioning tilt remains in middle frames. Connected blue whale tail emerges behind skirt at screen-right, with pale underside, spots and two flukes. Sway is restrained and follows the waiting request, with first/final poses close. No clipping, neighboring overlap, detached parts, new props or effects. Both source outer columns contain zero non-green artwork. Bundled component extraction and inspect_frames pass without errors or warnings. Fine green fringe remains for final despill.

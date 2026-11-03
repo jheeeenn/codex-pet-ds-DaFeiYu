@@ -1,0 +1,73 @@
+{
+  "ok": true,
+  "atlas": "/Users/jxuan/Codex_Folder/CodexPet/Pets/DaFeiYu/with-whale-tail/final/spritesheet-extended.png",
+  "encoded_bytes": 2431505,
+  "sha256": "fa0c6449a12e1f3646ee7f044a3f7511df61934495205d7884b787c92777ab4f",
+  "jump": {
+    "idle_baseline": 199,
+    "jump_baselines": [
+      200,
+      183,
+      160,
+      188,
+      200
+    ],
+    "airborne_lift_pixels": 40,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 94.5,
+    "look_centers_x": [
+      95.0,
+      89.0,
+      84.0,
+      82.0,
+      82.0,
+      81.5,
+      80.5,
+      85.5,
+      98.5,
+      102.5,
+      108.0,
+      112.5,
+      117.5,
+      116.5,
+      115.5,
+      112.0
+    ],
+    "look_widths": [
+      118,
+      118,
+      124,
+      124,
+      126,
+      125,
+      125,
+      129,
+      117,
+      119,
+      134,
+      137,
+      141,
+      137,
+      137,
+      126
+    ],
+    "maximum_center_drift_pixels": 23.0,
+    "maximum_width_ratio": 1.205128205128205
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (2748 pixels vs neighbor average 1587)",
+    "157.5->180 center shift is high (13.1px)",
+    "270->292.5 diff is a local outlier (1551 pixels vs neighbor average 1050)",
+    "337.5->000 diff is a local outlier (3578 pixels vs neighbor average 1312)",
+    "337.5->000 center shift is high (17.1px)"
+  ]
+}

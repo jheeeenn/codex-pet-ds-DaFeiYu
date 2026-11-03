@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A's visible face plane and chin project to the right, with the right-side blue eye nearer the outer facial edge; B reverses the cheek and eye-surface placement toward the left."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's face and chin sit left of the head center, and its left eye is foreshortened at the left facial contour. B's face projects right, with the opposite eye foreshortened."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A has the exposed cheek, blue eye surfaces, and chin displaced left beneath the fringe; B has the corresponding facial plane and chin displaced right."},
+    {"pair":"horizontal-4","A":"screen-left","B":"screen-right","reason":"A shows a strong leftward yaw: a narrow visible face and blue eye surface at the left of the head. B shows the same narrow facial plane pointing right."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"Despite the lowered eyelids, A's pale cheek and chin extend to the right of the fringe; B's visible cheek, eye strip, and chin extend left."},
+    {"pair":"horizontal-6","A":"screen-right","B":"screen-left","reason":"A's lowered face remains offset right, with the visible blue eye strip and chin on the right side of the head; B's face and chin are offset left."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"Both heads are bowed, but A's visible eye strip and pale chin sit left of the head center, while B's narrow pale face and chin sit to the right."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A exposes broad blue eye surfaces and a lifted, open face with the chin clear of the collar; B lowers the eye line beneath the fringe and tucks the chin toward the collar."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A's raised face exposes both blue eyes and a broad cheek-to-chin plane; B's fringe covers most of the eyes and the chin is tucked into the neckline."},
+    {"pair":"vertical-3","A":"up","B":"down","reason":"A's eye surfaces sit high in the exposed face, and its chin lifts away from the collar. B's eyes are reduced to lower strips under the fringe, with a shorter, lowered face plane."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A has a slightly raised chin and a taller exposed cheek plane beneath the blue eyes; B has a lower eye line, more fringe over the eyes, and a chin drawn closer to the collar."},
+    {"pair":"vertical-5","A":"down","B":"up","reason":"A's eye surfaces are narrow and low beneath the fringe, with the chin tucked; B exposes rounded blue eye surfaces and a lifted pale face above the collar."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A's fringe obscures the upper eyes and its face compresses toward the neckline; B has open blue eye surfaces and an elevated cheek-and-chin plane."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's visible blue eye strip and chin slope downward toward the collar; B's eye surfaces are open, and the chin and face plane are lifted."}
+  ]
+}
